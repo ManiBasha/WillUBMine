@@ -13,15 +13,7 @@ You've got three options — pick whatever works for you.
 
 ### Option 1: Just Send the Link
 
-No setup needed. Just send this link:
-
-```
-https://sahilgogna.github.io/v-day
-```
-
 That's it. Done. You're welcome.
-
----
 
 
 #### 4. Personalize It
